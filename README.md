@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am a Software Engineer
+# Hi 👋, I am Shashank bhattarai
 
 
 ## 🌐 Socials:
